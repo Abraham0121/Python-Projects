@@ -1,2 +1,2 @@
-# Python-Projects
-This will be a place where I store projects. 
+# Python-Projects (Depreciated)
+This was a place where I stored some projects. 
